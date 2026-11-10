@@ -11,3 +11,5 @@ package-lock.json
 .vscode
 .github/skills
 tessl.json
+.cloud-launch
+launch-result.json
